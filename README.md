@@ -3,6 +3,8 @@
 Working Copy
 ============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/devcode1981/welcome-to-working-copy.svg)](https://greenkeeper.io/)
+
 Welcome to Working Copy, a full-featured Git client for iOS. :birthday:
 
 Git is a powerful system and can take some time to master. The same is true for this application and even though you will not need 
